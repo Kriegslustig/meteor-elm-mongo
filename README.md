@@ -1,5 +1,6 @@
 # elm:mongo
 
+```
 Collections
 ~   Mongo.Collection
 ~     collection.find
@@ -20,4 +21,5 @@ Collections
 ~     cursor.observe
 ~     cursor.observeChanges
 ~   Mongo.ObjectID
+```
 
