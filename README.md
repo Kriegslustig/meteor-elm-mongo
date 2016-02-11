@@ -3,7 +3,7 @@
 ```
 Collections
 ~   Mongo.Collection
-~     collection.find
+y     collection.find
 ~     collection.findOne
 ~     collection.insert
 ~     collection.update
