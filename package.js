@@ -10,6 +10,7 @@ Package.onUse(function (api) {
   api.use(['ecmascript@0.1.6', 'elm:make', 'mongo'])
   api.addFiles(
     [ 'Mongo.elm'
+    , 'Mongo.elm.js'
     ]
   )
 })
